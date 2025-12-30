@@ -23,8 +23,9 @@ Each folder represents a key ML concept and includes:
 ## Goal
 Build production-ready ML intuition and interview-ready explanations.
 
-#### What is Machine Learning?
 
+
+#### What is Machine Learning?
 Machine Learning:
 - Learns patterns from data instead of hard-coded rules
 - Used in ranking, vision, speech, recommendations
